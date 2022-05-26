@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KostiantynSoloviov/React-shop/static/css/main.b666d51b.css",
-    "main.js": "/KostiantynSoloviov/React-shop/static/js/main.bf546345.js",
-    "index.html": "/KostiantynSoloviov/React-shop/index.html",
-    "main.b666d51b.css.map": "/KostiantynSoloviov/React-shop/static/css/main.b666d51b.css.map",
-    "main.bf546345.js.map": "/KostiantynSoloviov/React-shop/static/js/main.bf546345.js.map"
+    "main.css": "/React-shop/static/css/main.b666d51b.css",
+    "main.js": "/React-shop/static/js/main.ec4d712f.js",
+    "index.html": "/React-shop/index.html",
+    "main.b666d51b.css.map": "/React-shop/static/css/main.b666d51b.css.map",
+    "main.ec4d712f.js.map": "/React-shop/static/js/main.ec4d712f.js.map"
   },
   "entrypoints": [
     "static/css/main.b666d51b.css",
-    "static/js/main.bf546345.js"
+    "static/js/main.ec4d712f.js"
   ]
 }
