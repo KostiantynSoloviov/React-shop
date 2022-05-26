@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KostiantynSoloviov/React-shop/static/css/main.b666d51b.css",
+    "main.js": "/KostiantynSoloviov/React-shop/static/js/main.bf546345.js",
+    "index.html": "/KostiantynSoloviov/React-shop/index.html",
+    "main.b666d51b.css.map": "/KostiantynSoloviov/React-shop/static/css/main.b666d51b.css.map",
+    "main.bf546345.js.map": "/KostiantynSoloviov/React-shop/static/js/main.bf546345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b666d51b.css",
+    "static/js/main.bf546345.js"
+  ]
+}
